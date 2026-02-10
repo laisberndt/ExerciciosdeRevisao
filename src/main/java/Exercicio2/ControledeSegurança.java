@@ -18,5 +18,6 @@ public class ControledeSegurança { //classe principal
         } else {
             System.out.println("Sistema estável");
         }
+        System.out.println("TESTE2");
     }
 }
