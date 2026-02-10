@@ -16,5 +16,7 @@ public class LeituradeDados { //classe principal
         //aparece as informações coletadas na tela
 
         scanner.close(); //fecha o scanner
+
+        System.out.println("TESTE GITHUB");
     }
 }
